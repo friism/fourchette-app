@@ -36,8 +36,8 @@
     }
   },
   "addons": [
-    "logentries:tryit",
-    "newrelic:stark",
-    "sentry:developer"
+    "logentries",
+    "newrelic",
+    "sentry"
   ]
 }
